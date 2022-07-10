@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>736524898403-3eluaqtbopbgp70ap6f58c09nj49q0ih.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.736524898403-3eluaqtbopbgp70ap6f58c09nj49q0ih</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByh-LRslm4JnQhzrMeDa-yMgCwT-nU1wk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736524898403</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ua.edu.ukma.daria.shevchenko.CatsAndModules-DariaShevchenko</string>
+	<key>PROJECT_ID</key>
+	<string>catsandmodules-819f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>catsandmodules-819f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736524898403:ios:3a4346cecee041b323a856</string>
+</dict>
+</plist>
